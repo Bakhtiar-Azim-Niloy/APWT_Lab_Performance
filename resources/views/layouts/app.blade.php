@@ -3,7 +3,6 @@
         <div class="container">
             @include('include.topnav')
             <br>
-            Welcome to APWT
             <div>
                 @yield('content')
             </div>

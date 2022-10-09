@@ -2,7 +2,7 @@
 <br>
 @section('content')
 
-<h1>Welcome to product section :</h1>
+<h1>Welcome to product Part :</h1>
 
 <h2>Product list</h2>
 @foreach($product as $n)

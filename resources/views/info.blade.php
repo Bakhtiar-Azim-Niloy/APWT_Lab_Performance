@@ -1,6 +1,7 @@
 @extends('layouts.app')
 @section('content')
-
-<h1>Welcome to your home </h1>
+<br>
+<h1> <center> This is a online shopping base website </center> </h1>
+</br>
 
 @endsection
